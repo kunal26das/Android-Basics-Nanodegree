@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_quiz.xml"
+    app:startDestination="@id/welcome">
+
+    <fragment
+        android:id="@+id/welcome"
+        android:name="kunal26das.quizapp.WelcomeFragment"
+        tools:layout="@layout/fragment_welcome"
+        android:label="@string/welcome">
+        <action
+            android:id="@+id/action_welcome_to_question1"
+            app:destination="@id/question1"
+            app:popUpTo="@id/navigation_quiz.xml" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/question1"
+        android:name="kunal26das.quizapp.Question1Fragment"
+        android:label="@string/question_1"
+        tools:layout="@layout/fragment_question_1">
+        <action
+            android:id="@+id/action_question1_to_question2"
+            app:destination="@id/question2" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/question2"
+        android:name="kunal26das.quizapp.Question2Fragment"
+        android:label="@string/question_2"
+        tools:layout="@layout/fragment_question_2">
+        <action
+            android:id="@+id/action_question2_to_question3"
+            app:destination="@id/question3" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/question3"
+        android:name="kunal26das.quizapp.Question3Fragment"
+        android:label="@string/question_3"
+        tools:layout="@layout/fragment_question_3">
+        <action
+            android:id="@+id/action_question3_to_question4"
+            app:destination="@id/question4" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/question4"
+        android:name="kunal26das.quizapp.Question4Fragment"
+        android:label="@string/question_4"
+        tools:layout="@layout/fragment_question_4">
+        <action
+            android:id="@+id/action_question4_to_question5"
+            app:destination="@id/question5" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/question5"
+        android:name="kunal26das.quizapp.Question5Fragment"
+        android:label="@string/question_5"
+        tools:layout="@layout/fragment_question_5">
+        <action
+            android:id="@+id/action_question5_to_finish"
+            app:destination="@id/finish" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/finish"
+        android:name="kunal26das.quizapp.FinishFragment"
+        tools:layout="@layout/fragment_finish"
+        android:label="@string/finish"/>
+
+</navigation>

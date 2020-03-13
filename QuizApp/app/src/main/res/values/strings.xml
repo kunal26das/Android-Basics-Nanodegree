@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="start">Start</string>
+    <string name="question_1">Question 1</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_">Welcome!</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="question_one">What is the flavour name of Android 6</string>
+    <string name="question_two">Which os these are Android Flavours</string>
+    <string name="question_three">What is ANR in Android</string>
+    <string name="question_four">Which of these languages are used for Android Development</string>
+    <string name="question_five">Enter you details</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="submit">Submit</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="nougat">Nougat</string>
+    <string name="oreo">Oreo</string>
+    <string name="pie">Pie</string>
+    <string name="jellybean">Jellybean</string>
+    <string name="mango">Mango</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="architecture_not_responding">Architecture Not Responding</string>
+    <string name="activity_not_responding">Activity Not Responding</string>
+    <string name="application_not_responding">Application Not Responding</string>
+    <string name="none_of_the_above">None of the above</string>
+    <string name="c">C#</string>
+    <string name="java">Java</string>
+    <string name="javascript">JavaScript</string>
+    <string name="kotlin">Kotlin</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">Bhopal Tour App</string>
+
+    <string name="events">Event</string>
+    <string name="events_bhojtal">Bhojtal attracts tourists due to its scenic beauty. The National Sailing School was established at the Boat Club on its eastern side. This club offers various water sports such as kayaking, canoeing, rafting, water skiing, parasailing etc. A number of operators provide facilities for exciting trips by sail, paddle and motor boats.</string>
+    <string name="events_bhojpur">Every year, on the occasion of Maha Shivaratri, a big fair is organized at Bhojpur.</string>
+    <string name="events_bhimbetka">Local events organised by Tour Guides</string>
+    <string name="events_sanchi">Mass Worship and Prayers</string>
+
+    <string name="historical_sites">Historical Sites</string>
+    <string name="historical_sites_bhojtal">Van Vihar National Park, situated on the south-eastern side of the lake, attracts tourists. The road passing through it has on one side the animals in their natural habitats, and on the other hand is the scenic beauty of the lake.</string>
+    <string name="historical_sites_bhojpur"><![CDATA[Bhojeśvar or Bhojasvāmin temple, Quarries and rock drawings, Jain temples, Main Temple & Idol]]></string>
+    <string name="historical_sites_bhimbetka">Of the numerous shelters, the Auditorium cave is one of the significant features of the site. Surrounded by quartzite towers which are visible from several kilometers distance, the Auditorium rock is the largest shelter at Bhimbetka.</string>
+    <string name="historical_sites_sanchi">Sanchi Stupa is a Buddhist complex, famous for its Great Stupa, on a hilltop at Sanchi Town in Raisen District of the State of Madhya Pradesh, India. It is located in 46 kilometres (29 mi) north-east of Bhopal, capital of Madhya Pradesh.</string>
+
+    <string name="bhojtal">Bhojtal</string>
+
+    <string name="bhojpur">Bhojpur</string>
+
+    <string name="bhimbetka_sock_shelters">Bhimbetka Rock Shelters</string>
+
+    <string name="sanchi_stupa">Sanchi Stupa</string>
+
+    <string name="restaurant">Restaurant</string>
+    <string name="restaurant_bhojtal">Wind and Waves - Lake Driver Road, Van Vihar Road, Shymla Hills, TT Nagar, Bhopal</string>
+    <string name="restaurant_bhojpur">Shri Ji Bhojnalaya And Restaurant</string>
+    <string name="restaurant_bhimbetka">The Highway Treat restaurant is located at the entrance of Rock shelters of Bhimbetka on the Bhopal Hoshangabad stretch of the National Highway.</string>
+    <string name="restaurant_sanchi">MPT Gateway Retreat, Sanchi</string>
+
+    <string name="source">Source</string>
+    <string name="source_bhojtal">https://en.wikipedia.org/wiki/Bhojtal</string>
+    <string name="source_bhojpur">https://en.wikipedia.org/wiki/Bhojpur,_Madhya_Pradesh</string>
+    <string name="source_bhimbetka">https://en.wikipedia.org/wiki/Bhimbetka_rock_shelters</string>
+    <string name="source_sanchi">https://en.wikipedia.org/wiki/Sanchi</string>
+</resources>

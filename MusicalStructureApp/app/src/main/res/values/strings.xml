@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="a_head_full_of_dreams">A Head Full of Dreams</string>
+    <string name="a_hopeful_transmission">A Hopeful Transmission</string>
+    <string name="a_message">A Message</string>
+    <string name="a_rush_of_blood_to_the_head">A Rush of Blood to the Head</string>
+    <string name="a_sky_full_of_stars">A Sky Full of Stars</string>
+    <string name="a_whisper">A Whisper</string>
+
+    <string name="adventure_of_a_lifetime">Adventure of a Lifetime</string>
+
+    <string name="album">Album</string>
+    <string name="album_cover_a_head_full_of_dreams">https://www.coldplay.com/wp/wp–content/uploads/2015/11/AHFOD1000–640x640.jpg</string>
+    <string name="album_cover_a_rush_of_blood_to_the_head">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_arushofbloodtothehead.jpg</string>
+    <string name="album_cover_blossom">https://upload.wikimedia.org/wikipedia/en/8/85/Milky_Chance_-_Blossom_cover.jpg</string>
+    <string name="album_cover_everyday_life">https://www.coldplay.com/wp/wp-content/uploads/2019/10/andsohereweare-640x640.jpg</string>
+    <string name="album_cover_ghost_stories">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_ghoststories.jpg</string>
+    <string name="album_cover_mind_the_moon">https://linkstorage.linkfire.com/medialinks/images/f9bee2c7-4f26-47b2-a5cb-c7bddb7d7171/artwork-440x440.jpg</string>
+    <string name="album_cover_mylo_xyloto">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_myloxyloto.jpg</string>
+    <string name="album_cover_parachutes">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_parachutes.jpg</string>
+    <string name="album_cover_sadnecessary">https://upload.wikimedia.org/wikipedia/en/3/35/Milky_Chance_Sadnecessary.jpg</string>
+    <string name="album_cover_viva_la_vida_or_death_and_all_his_friends">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_vivalavida.jpg</string>
+    <string name="album_cover_x_and_y">https://www.coldplay.com/wp/wp-content/uploads/2015/11/art_xandy.jpg</string>
+
+    <string name="albums">Albums</string>
+
+    <string name="alive">Alive</string>
+
+    <string name="always_in_my_head">Always in My Head</string>
+
+    <string name="amazing_day">Amazing Day</string>
+
+    <string name="amsterdam">Amsterdam</string>
+
+    <string name="anothers_arms">Another\'s Arms</string>
+
+    <string name="app_name">Musical Structure App</string>
+
+    <string name="arabesque">Arabesque</string>
+
+    <string name="army_of_one_x_marks_the_spot">Army of One / X Marks the Spot</string>
+
+    <string name="artist">Artist</string>
+
+    <string name="artists">Artists</string>
+
+    <string name="bad_things">Bad Things</string>
+
+    <string name="becoming">Becoming</string>
+
+    <string name="birds">Birds</string>
+
+    <string name="blossom">Blossom</string>
+
+    <string name="broken">Broken</string>
+
+    <string name="cemeteries_of_london">Cemeteries of London</string>
+
+    <string name="champion_of_the_world">Champion of the World</string>
+
+    <string name="charlie_brown">Charlie Brown</string>
+
+    <string name="church">Church</string>
+
+    <string name="clocks">Clocks</string>
+
+    <string name="clouds">Clouds</string>
+
+    <string name="cocoon">Cocoon</string>
+
+    <string name="cold_blue_rain">Cold Blue Rain</string>
+
+    <string name="coldplay">Coldplay</string>
+    <string name="coldplay_parachutes">Parachutes</string>
+
+    <string name="color_spectrum">Colour Spectrum</string>
+
+    <string name="cry_cry_cry">Cry Cry Cry</string>
+
+    <string name="daddy">Daddy</string>
+
+    <string name="daylight">Daylight</string>
+
+    <string name="death_and_all_his_friends">Death and All His Friends</string>
+
+    <string name="doing_good">Doing Good</string>
+
+    <string name="dont_let_it_break_your_heart">Don\'t Let It Break Your Heart</string>
+    <string name="dont_panic">Don\'t Panic</string>
+
+    <string name="down_by_the_river">Down by the River</string>
+
+    <string name="ego">Ego</string>
+
+    <string name="eko">Èkó</string>
+
+    <string name="everglow">Everglow</string>
+
+    <string name="every_teardrop_is_a_waterfall">Every Teardrop Is a Waterfall</string>
+
+    <string name="everyday_life">Everyday Life</string>
+
+    <string name="everythings_not_lost">Everything\'s Not Lost</string>
+
+    <string name="fairytale">Fairytale</string>
+
+    <string name="feathery">Feathery</string>
+
+    <string name="firebird">Firebird</string>
+
+    <string name="fix_you">Fix You</string>
+
+    <string name="flashed_junk_mind">Flashed Junk Mind</string>
+
+    <string name="fourty_two">42</string>
+
+    <string name="fun">Fun</string>
+
+    <string name="ghost_stories">Ghost Stories</string>
+
+    <string name="god_put_a_smile_upon_your_face">God Put a Smile upon Your Face</string>
+
+    <string name="green_eyes">Green Eyes</string>
+
+    <string name="guns">Guns</string>
+
+    <string name="heartless">Heartless</string>
+
+    <string name="high_speed">High Speed</string>
+
+    <string name="how_you_see_the_world">How You See the World</string>
+
+    <string name="hurts_like_heaven">Hurts Like Heaven</string>
+
+    <string name="hymn_for_the_weekend">Hymn for the Weekend</string>
+
+    <string name="in_my_place">In My Place</string>
+
+    <string name="indigo">Indigo</string>
+
+    <string name="ink">Ink</string>
+
+    <string name="kaleidoscope">Kaleidoscope</string>
+
+    <string name="life_in_technicolor">Life in Technicolor</string>
+    <string name="life_is_for_living">Life Is for Living</string>
+
+    <string name="list">List</string>
+
+    <string name="losing_you">Losing You</string>
+
+    <string name="lost">Lost!</string>
+
+    <string name="lovers_in_japan_reign_of_love">Lovers in Japan / Reign of Love</string>
+
+    <string name="low">Low</string>
+
+    <string name="magic">Magic</string>
+
+    <string name="major_minus">Major Minus</string>
+
+    <string name="midnight">Midnight</string>
+
+    <string name="milky_chance">Milky Chance</string>
+
+    <string name="mind_the_moon">Mind the Moon</string>
+
+    <string name="mmix">M.M.I.X.</string>
+
+    <string name="mylo_xyloto">Mylo Xyloto</string>
+
+    <string name="o">O</string>
+
+    <string name="oceans">Oceans</string>
+
+    <string name="old_friends">Old Friends</string>
+
+    <string name="orphans">Orphans</string>
+
+    <string name="parachutes">Parachutes</string>
+
+    <string name="paradise">Paradise</string>
+
+    <string name="peripeteia">Peripeteia</string>
+
+    <string name="piano_song">Piano Song</string>
+
+    <string name="politik">Politik</string>
+
+    <string name="princess_of_china">Princess of China</string>
+
+    <string name="running">Running</string>
+
+    <string name="sadnecessary">Sadnecessary</string>
+
+    <string name="shiver">Shiver</string>
+
+    <string name="songs">Songs</string>
+
+    <string name="sparks">Sparks</string>
+
+    <string name="speed_of_sound">Speed of Sound</string>
+
+    <string name="spies">Spies</string>
+
+    <string name="square_one">Square One</string>
+
+    <string name="stay">Stay</string>
+
+    <string name="stolen_dance">Stolen Dance</string>
+
+    <string name="strawberry_swing">Strawberry Swing</string>
+
+    <string name="stunner">Stunner</string>
+
+    <string name="sunrise">Sunrise</string>
+
+    <string name="swallowed_in_the_sea">Swallowed in the Sea</string>
+
+    <string name="sweet_sun">Sweet Sun</string>
+
+    <string name="talk">Talk</string>
+
+    <string name="the_hardest_part">The Hardest Part</string>
+    <string name="the_scientist">The Scientist</string>
+
+    <string name="til_kingdom_come">\'Til Kingdom Come</string>
+
+    <string name="trouble">Trouble</string>
+    <string name="trouble_in_town">Trouble in Town</string>
+
+    <string name="true_love">True Love</string>
+
+    <string name="twisted_logic">Twisted Logic</string>
+
+    <string name="ufo">U.F.O.</string>
+
+    <string name="up_and_up"><![CDATA[Up & Up]]></string>
+    <string name="up_in_flames">Up in Flames</string>
+    <string name="up_with_the_birds">Up with the Birds</string>
+
+    <string name="us_against_the_world">Us Against the World</string>
+
+    <string name="violet_hill">Violet Hill</string>
+
+    <string name="viva_la_vida">Viva la Vida</string>
+    <string name="viva_la_vida_or_death_and_all_his_friends">Viva la Vida or Death and All His Friends</string>
+
+    <string name="warning_sign">Warning Sign</string>
+
+    <string name="we_never_change">We Never Change</string>
+
+    <string name="what_if">What If</string>
+
+    <string name="when_i_need_a_friend">When I Need a Friend</string>
+
+    <string name="white_shadows">White Shadows</string>
+
+    <string name="wotw_potp">WOTW / POTP</string>
+
+    <string name="x_and_y"><![CDATA[X&Y]]></string>
+
+    <string name="yellow">Yellow</string>
+
+    <string name="yes">Yes</string>
+</resources>

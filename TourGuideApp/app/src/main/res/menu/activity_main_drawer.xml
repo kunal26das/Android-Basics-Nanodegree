@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bhojtal"
+            android:title="@string/bhojtal" />
+        <item
+            android:id="@+id/bhojpur"
+            android:title="@string/bhojpur" />
+        <item
+            android:id="@+id/bhimbetka"
+            android:title="@string/bhimbetka_sock_shelters" />
+        <item
+            android:id="@+id/sanchi"
+            android:title="@string/sanchi_stupa" />
+    </group>
+</menu>

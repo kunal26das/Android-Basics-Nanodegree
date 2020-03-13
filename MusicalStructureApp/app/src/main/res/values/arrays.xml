@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="artists">
+        <item>@string/coldplay</item>
+        <item>@string/milky_chance</item>
+    </string-array>
+
+    <string-array name="coldplay">
+        <item>@string/parachutes</item>
+        <item>@string/a_rush_of_blood_to_the_head</item>
+        <item>@string/x_and_y</item>
+        <item>@string/viva_la_vida_or_death_and_all_his_friends</item>
+        <item>@string/mylo_xyloto</item>
+        <item>@string/ghost_stories</item>
+        <item>@string/a_head_full_of_dreams</item>
+        <item>@string/everyday_life</item>
+    </string-array>
+
+    <string-array name="milky_chance">
+        <item>@string/sadnecessary</item>
+        <item>@string/blossom</item>
+        <item>@string/mind_the_moon</item>
+    </string-array>
+
+    <string-array name="parachutes">
+        <item>@string/dont_panic</item>
+        <item>@string/shiver</item>
+        <item>@string/spies</item>
+        <item>@string/sparks</item>
+        <item>@string/yellow</item>
+        <item>@string/trouble</item>
+        <item>@string/parachutes</item>
+        <item>@string/high_speed</item>
+        <item>@string/we_never_change</item>
+        <item>@string/everythings_not_lost</item>
+    </string-array>
+
+    <string-array name="a_rush_of_blood_to_the_head">
+        <item>@string/politik</item>
+        <item>@string/in_my_place</item>
+        <item>@string/god_put_a_smile_upon_your_face</item>
+        <item>@string/the_scientist</item>
+        <item>@string/clocks</item>
+        <item>@string/daylight</item>
+        <item>@string/green_eyes</item>
+        <item>@string/warning_sign</item>
+        <item>@string/a_whisper</item>
+        <item>@string/a_rush_of_blood_to_the_head</item>
+        <item>@string/amsterdam</item>
+    </string-array>
+
+    <string-array name="x_and_y">
+        <item>@string/square_one</item>
+        <item>@string/what_if</item>
+        <item>@string/white_shadows</item>
+        <item>@string/fix_you</item>
+        <item>@string/talk</item>
+        <item>@string/x_and_y</item>
+        <item>@string/speed_of_sound</item>
+        <item>@string/a_message</item>
+        <item>@string/low</item>
+        <item>@string/the_hardest_part</item>
+        <item>@string/swallowed_in_the_sea</item>
+        <item>@string/twisted_logic</item>
+        <item>@string/til_kingdom_come</item>
+        <item>@string/how_you_see_the_world</item>
+    </string-array>
+
+    <string-array name="viva_la_vida_or_death_and_all_his_friends">
+        <item>@string/life_in_technicolor</item>
+        <item>@string/cemeteries_of_london</item>
+        <item>@string/lost</item>
+        <item>@string/lovers_in_japan_reign_of_love</item>
+        <item>@string/yes</item>
+        <item>@string/viva_la_vida</item>
+        <item>@string/violet_hill</item>
+        <item>@string/strawberry_swing</item>
+        <item>@string/death_and_all_his_friends</item>
+    </string-array>
+
+    <string-array name="mylo_xyloto">
+        <item>@string/mylo_xyloto</item>
+        <item>@string/hurts_like_heaven</item>
+        <item>@string/paradise</item>
+        <item>@string/charlie_brown</item>
+        <item>@string/us_against_the_world</item>
+        <item>@string/mmix</item>
+        <item>@string/every_teardrop_is_a_waterfall</item>
+        <item>@string/major_minus</item>
+        <item>@string/ufo</item>
+        <item>@string/princess_of_china</item>
+        <item>@string/up_in_flames</item>
+        <item>@string/a_hopeful_transmission</item>
+        <item>@string/dont_let_it_break_your_heart</item>
+        <item>@string/up_with_the_birds</item>
+        <item>@string/life_is_for_living</item>
+    </string-array>
+
+    <string-array name="ghost_stories">
+        <item>@string/always_in_my_head</item>
+        <item>@string/magic</item>
+        <item>@string/ink</item>
+        <item>@string/true_love</item>
+        <item>@string/midnight</item>
+        <item>@string/anothers_arms</item>
+        <item>@string/oceans</item>
+        <item>@string/a_sky_full_of_stars</item>
+        <item>@string/o</item>
+    </string-array>
+
+    <string-array name="a_head_full_of_dreams">
+        <item>@string/a_head_full_of_dreams</item>
+        <item>@string/birds</item>
+        <item>@string/hymn_for_the_weekend</item>
+        <item>@string/everglow</item>
+        <item>@string/adventure_of_a_lifetime</item>
+        <item>@string/fun</item>
+        <item>@string/kaleidoscope</item>
+        <item>@string/army_of_one_x_marks_the_spot</item>
+        <item>@string/amazing_day</item>
+        <item>@string/color_spectrum</item>
+        <item>@string/up_and_up</item>
+    </string-array>
+
+    <string-array name="everyday_life">
+        <item>@string/sunrise</item>
+        <item>@string/church</item>
+        <item>@string/trouble_in_town</item>
+        <item>@string/broken</item>
+        <item>@string/daddy</item>
+        <item>@string/wotw_potp</item>
+        <item>@string/arabesque</item>
+        <item>@string/when_i_need_a_friend</item>
+        <item>@string/guns</item>
+        <item>@string/orphans</item>
+        <item>@string/eko</item>
+        <item>@string/cry_cry_cry</item>
+        <item>@string/old_friends</item>
+        <item>بنی آدم</item>
+        <item>@string/champion_of_the_world</item>
+        <item>@string/everyday_life</item>
+    </string-array>
+
+    <string-array name="sadnecessary">
+        <item>@string/stunner</item>
+        <item>@string/flashed_junk_mind</item>
+        <item>@string/becoming</item>
+        <item>@string/running</item>
+        <item>@string/feathery</item>
+        <item>@string/indigo</item>
+        <item>@string/sadnecessary</item>
+        <item>@string/down_by_the_river</item>
+        <item>@string/sweet_sun</item>
+        <item>@string/fairytale</item>
+        <item>@string/stolen_dance</item>
+    </string-array>
+
+    <string-array name="blossom">
+        <item>@string/blossom</item>
+        <item>@string/ego</item>
+        <item>@string/firebird</item>
+        <item>@string/doing_good</item>
+        <item>@string/clouds</item>
+        <item>@string/cold_blue_rain</item>
+        <item>@string/stay</item>
+        <item>@string/bad_things</item>
+        <item>@string/cocoon</item>
+        <item>@string/losing_you</item>
+        <item>@string/peripeteia</item>
+        <item>@string/alive</item>
+        <item>@string/piano_song</item>
+        <item>@string/heartless</item>
+    </string-array>
+
+    <string-array name="mind_the_moon">
+        <item>Fado</item>
+        <item>Oh Mama</item>
+        <item>The Game</item>
+        <item>Rush</item>
+        <item>Long Run</item>
+        <item>Daydreaming</item>
+        <item>We Didn\'t Make it to the Moon</item>
+        <item>Eden\'s House</item>
+        <item>Scarlet Paintings</item>
+        <item>Right from Here</item>
+        <item>Fallen</item>
+        <item>Window</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/bhojtal">
+
+    <fragment
+        android:id="@+id/bhojtal"
+        android:name="kunal26das.tourguideapp.ui.fragment.BhojtalFragment"
+        android:label="@string/bhojtal"
+        tools:layout="@layout/fragment_common" />
+
+    <fragment
+        android:id="@+id/bhojpur"
+        android:name="kunal26das.tourguideapp.ui.fragment.BhojpurFragment"
+        android:label="@string/bhojpur"
+        tools:layout="@layout/fragment_common" />
+
+    <fragment
+        android:id="@+id/bhimbetka"
+        android:name="kunal26das.tourguideapp.ui.fragment.BhimbetkaFraagment"
+        android:label="@string/bhimbetka_sock_shelters"
+        tools:layout="@layout/fragment_common" />
+
+    <fragment
+        android:id="@+id/sanchi"
+        android:name="kunal26das.tourguideapp.ui.fragment.SanchiFragment"
+        android:label="@string/sanchi_stupa"
+        tools:layout="@layout/fragment_common" />
+</navigation>

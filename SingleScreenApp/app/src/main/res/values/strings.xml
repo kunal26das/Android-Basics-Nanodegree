@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="business_name">Mountblue Technologies</string>
+    <string name="website">Website</string>
+    <string name="Website">https://www.mountblue.io/</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="E_mail_address">hello@mountblue.io</string>
+    <string name="address">Address</string>
+    <string name="Address">Tavarkere Side, 1st Floor, Oyo Workflo, Umiya Emporium, 102, Hosur Main Road, Tavarekere, Opposite Forum Mall, Bengaluru, Karnataka 560029</string>
+    <string name="description">Description</string>
+    <string name="Description">We work closely with high growth ventures to solve their entry-level tech hiring. We create great engineers in our coding bootcamps, that are helmed by experienced software engineers and tech entrepreneurs.</string>
+    <string name="hours_of_operation">Hours of Operation</string>
+    <string name="Hours_of_Operation">9 A.M. - 7 P.M.</string>
+</resources>
